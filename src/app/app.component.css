@@ -1,0 +1,8 @@
+.spacer {
+			flex-grow : 1;
+		}
+
+/*container : batas 100px di kanan dan kiri serta batas 50px di atas dan bawah.*/
+.container{
+			padding: 50px 100px 50px 100px;
+		}
